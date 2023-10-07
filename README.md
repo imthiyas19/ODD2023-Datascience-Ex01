@@ -115,7 +115,7 @@ import seaborn as sns
 sns.heatmap(df.isnull(),yticklabels=False,annot=True)
 ```
 ![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex01/assets/120353416/10a1c9cc-e1d7-427d-802b-280b85b27cb1)
-```
+
 # RESULT:
 Thus,the given data is read,cleansed and the cleaned data is saved into the file.
 

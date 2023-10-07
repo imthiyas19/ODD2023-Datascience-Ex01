@@ -27,6 +27,7 @@ Reg no:212222230083
 import pandas as pd
 df=pd.read_csv("SAMPLEDS - Sheet1 (2).csv")
 df.shape
+```
 
 ![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex01/assets/120353416/cbe5e940-c557-4cbf-a569-6a8e6caf35bd)
 df.dropna(how='any').shape

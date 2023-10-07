@@ -61,7 +61,7 @@ tot=df.dropna(subset=['TOTAL'],how='any')
 tot
 ```
 ![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex01/assets/120353416/b9a006e0-1e52-488a-b9ed-88a2f5e2f677)
-``
+```
 tot=df.dropna(subset=['M1','M2','M3','M4'],how='any')
 tot
 ```

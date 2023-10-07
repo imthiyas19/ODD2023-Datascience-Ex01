@@ -23,6 +23,7 @@ Save the Clean data to the file
 Name:MOHAMMED IMTHIYAS
 Reg no:212222230083
 ```
+```
 import pandas as pd
 df=pd.read_csv("SAMPLEDS - Sheet1 (2).csv")
 df.shape
@@ -94,6 +95,7 @@ import seaborn as sns
 sns.heatmap(df.isnull(),yticklabels=False,annot=True)
 
 ![image](https://github.com/imthiyas19/ODD2023-Datascience-Ex01/assets/120353416/10a1c9cc-e1d7-427d-802b-280b85b27cb1)
+```
 
 
 # Result:
